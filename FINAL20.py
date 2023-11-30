@@ -4,4 +4,4 @@
 
 import os
 import FINAL20
-FINAL20.loging.()
+FINAL20.loging()
